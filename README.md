@@ -40,3 +40,13 @@ Configure NPM to use MSVS 2013
 Install Node dependencies.
 
     npm install
+
+## Run server
+Run following command from the project root.
+
+    node index.js
+
+This will start Web Sockets server on port 8080
+If you want change port, please use command:
+
+    node index.js -port 8888
