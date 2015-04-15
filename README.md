@@ -44,9 +44,9 @@ Install Node dependencies.
 ## Run server
 Run following command from the project root.
 
-    node index.js
+    node app.js
 
 This will start Web Sockets server on port 8080
 If you want change port, please use command:
 
-    node index.js -port 8888
+    node app.js -port 8888
