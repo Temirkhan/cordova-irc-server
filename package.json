@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/DeutchKazakhUnivercity/cordova-irc-server",
   "dependencies": {
-    "ws": "^0.7.1"
+    "ws": "^0.7.1",
+    "yargs":  "^3.7.1"
   }
 }
